@@ -156,6 +156,7 @@
 		46EEAC651B5DE50500D8531E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Tim GreenoughGi";
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				46EEAC8E1B5DE50500D8531E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		46EEAC8F1B5DE50500D8531E /* Build configuration list for PBXNativeTarget "TestProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				46EEAC911B5DE50500D8531E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
