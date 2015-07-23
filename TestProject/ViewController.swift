@@ -21,6 +21,12 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    func awesomeFeatureX() {
+        
+        println("A new innovative feature to make your life easier... Feature-X!")
+        
+    }
 
 
 }
