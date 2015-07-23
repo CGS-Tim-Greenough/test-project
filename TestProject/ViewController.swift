@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     
     func awesomeFeatureX() {
         
-        println("A new innovative feature to make your life easier... Feature-X!")
+        println("A new useless feature to make your life just as difficult as it was before... Feature-X!")
         
     }
 
