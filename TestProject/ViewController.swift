@@ -27,6 +27,12 @@ class ViewController: UIViewController {
         println("A new useless feature to make your life just as difficult as it was before... Feature-X!")
         
     }
+    
+    func featureQImplementation() {
+        
+        println("Feature-q is the newest feature, based on client requests")
+        
+    }
 
 
 }
