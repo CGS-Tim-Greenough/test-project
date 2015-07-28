@@ -28,9 +28,21 @@ class ViewController: UIViewController {
         
     }
     
+<<<<<<< HEAD
     func featureA() {
         
         // Testing for feature-a...
+=======
+    func featureQImplementation() {
+        
+        println("Feature-q is the newest feature, based on client requests")
+        
+    }
+    
+    func featureQClientFeedback(feedbackMessage : String) -> String {
+        
+        return "A client has issued some feedback on feature-q: \(feedbackMessage)"
+>>>>>>> feature-q
         
     }
 
