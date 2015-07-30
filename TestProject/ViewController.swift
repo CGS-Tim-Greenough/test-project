@@ -39,6 +39,8 @@ class ViewController: UIViewController {
         
         println("Feature-q is the newest feature, based on client requests")
         
+        // Now adding some debug comment to the code
+        
     }
     
     func featureQClientFeedback(feedbackMessage : String) -> String {
