@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		464B48511B69EC8D0021E78F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464B48501B69EC8D0021E78F /* SecondViewController.swift */; };
-		46D7FEC71B6C7D5200D218C7 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D7FEC61B6C7D5200D218C7 /* ThirdViewController.swift */; };
 		46EEAC731B5DE50500D8531E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EEAC721B5DE50500D8531E /* AppDelegate.swift */; };
 		46EEAC751B5DE50500D8531E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EEAC741B5DE50500D8531E /* ViewController.swift */; };
 		46EEAC781B5DE50500D8531E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46EEAC761B5DE50500D8531E /* Main.storyboard */; };
@@ -29,7 +28,6 @@
 
 /* Begin PBXFileReference section */
 		464B48501B69EC8D0021E78F /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		46D7FEC61B6C7D5200D218C7 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		46EEAC6D1B5DE50500D8531E /* TestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46EEAC711B5DE50500D8531E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		46EEAC721B5DE50500D8531E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -88,7 +86,6 @@
 				46EEAC791B5DE50500D8531E /* Images.xcassets */,
 				46EEAC7B1B5DE50500D8531E /* LaunchScreen.xib */,
 				46EEAC701B5DE50500D8531E /* Supporting Files */,
-				46D7FEC61B6C7D5200D218C7 /* ThirdViewController.swift */,
 			);
 			path = TestProject;
 			sourceTree = "<group>";
@@ -221,7 +218,6 @@
 			files = (
 				464B48511B69EC8D0021E78F /* SecondViewController.swift in Sources */,
 				46EEAC751B5DE50500D8531E /* ViewController.swift in Sources */,
-				46D7FEC71B6C7D5200D218C7 /* ThirdViewController.swift in Sources */,
 				46EEAC731B5DE50500D8531E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
