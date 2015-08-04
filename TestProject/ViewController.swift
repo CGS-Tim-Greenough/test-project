@@ -40,13 +40,13 @@ class ViewController: UIViewController {
         println("Feature-q is the newest feature, based on client requests")
         
         // Now adding some debug comment to the code
+        // A change to feature-q
         
     }
     
     func featureQClientFeedback(feedbackMessage : String) -> String {
         
         return "A client has issued some feedback on feature-q: \(feedbackMessage)"
-//>>>>>>> feature-q
         
     }
     
