@@ -46,6 +46,8 @@ class ViewController: UIViewController {
     
     func featureQClientFeedback(feedbackMessage : String) -> String {
         
+        // Some debug comment for the client feedback of feature-q
+        
         return "A client has issued some feedback on feature-q: \(feedbackMessage)"
         
     }
