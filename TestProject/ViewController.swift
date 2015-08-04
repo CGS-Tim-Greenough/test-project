@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController {
     
     // Feature-k here
+    // Feature-q here
+    // Conflicts resolved, both features can coexist in peace!
 
     override func viewDidLoad() {
         super.viewDidLoad()
